@@ -4,14 +4,14 @@ This kata is aimed to make a developer use `fetch` inside react to get a respons
 ### Learning Outcomes
 By the end of this lesson, you should be able to:
 
-- Describe the purpose of `state` in a React component
-- Explain the importance of using `setState()` instead of mutating state directly
-- Learn to call API using `fetch`
-- Realise if mahaShivratri is a Holiday
+- Describe the purpose of `state` in a React component (reading material)
+- Explain the importance of using `setState()` instead of mutating state directly (reading material)
+- Learn to call API using `fetch` (practice)
+- Realise if mahaShivratri is a Holiday (exercise/kata)
 
 ### State
 
-The other main pillar of React is `state`. State is simply what we use to handle values that can change over time. For example, consider a very simple application that has a button and a counter. When the user clicks the button, the counter is incremented by 1. Since `count` will need to change on every click, we want to hold that value in `state`.
+One of the main pillar of React is `state`. State is simply what we use to handle values that can change over time. For example, consider a very simple application that has a button and a counter. When the user clicks the button, the counter is incremented by 1. Since `count` will need to change on every click, we want to hold that value in `state`.
 
 The following example of our simple counter app shows how to define `state` in React:
 

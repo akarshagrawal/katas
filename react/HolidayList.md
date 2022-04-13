@@ -1,5 +1,5 @@
 # Holiday List
-This kata is aimed to make a developer use `fetch` inside react to get a response from a public API. For this assignment create a new project by the name `mahashivratri holiday`, and upload it to your git.
+This kata is aimed to make a developer use `fetch` inside react to get a response from a public API. For this assignment create a new project by the name `weekend holiday`, and upload it to your git.
 
 ### Learning Outcomes
 By the end of this lesson, you should be able to:

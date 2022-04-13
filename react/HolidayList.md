@@ -1,4 +1,4 @@
-# Holiday List (is MahaShivratri a Holiday?)
+# Holiday List
 This kata is aimed to make a developer use `fetch` inside react to get a response from a public API. For this assignment create a new project by the name `mahashivratri holiday`, and upload it to your git.
 
 ### Learning Outcomes
@@ -117,16 +117,10 @@ API used here is a public API
 `https://jsonplaceholder.typicode.com/posts?_limit=8`
 Try to run this API on web to understand the response.
 
-## Is MahaShivratri a Holiday?
-We will now try to consume the holiday list API. We can only can this API with the year `2021` due to some technical limitations. This API will give a list of holidays from Indian calendar 2021 in response.<br>
-API:<br>
+## Holiday API
 
 `https://holidayapi.com/v1/holidays?pretty&key=b3ea9900-0e5c-4114-9743-e7413661b260&country=IN&year=2021`
 
 We can try to understand the response of this API and make the changes to the above code accordingly, For this exercise, we are allowed to start the development with correct the test cases as single line comments, as we don't know how to write test cases in react for now. (Write possible test cases as JS comments using `//`).
 
-After successful execution we would know if MahaShivratri is a public holiday in India.
-
 Commit the code, and enjoy your holiday.
-
-> Om namah Shivay!!!

@@ -119,7 +119,7 @@ Try to run this API on web to understand the response.
 
 ## Holiday API
 
-`https://holidayapi.com/v1/holidays?pretty&key=b3ea9900-0e5c-4114-9743-e7413661b260&country=IN&year=2021`
+`https://holidayapi.com/v1/holidays?pretty&key=e1da110b-93fe-4412-bc35-7d56c4c2e405&country=IN&year=2021`
 
 We can try to understand the response of this API and make the changes to the above code accordingly, For this exercise, we are allowed to start the development with correct the test cases as single line comments, as we don't know how to write test cases in react for now. (Write possible test cases as JS comments using `//`).
 

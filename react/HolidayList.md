@@ -1,5 +1,5 @@
 # Holiday List
-This kata is aimed to make a developer use `fetch` inside react to get a response from a public API. For this assignment create a new project by the name `weekend holiday`, and upload it to your git.
+This kata is aimed to make a developer use `fetch` inside react to get a response from a public API. For this assignment create a new project by the name `holiday assignment`, and upload it to your git.
 
 ### Learning Outcomes
 By the end of this lesson, you should be able to:
@@ -58,7 +58,7 @@ In the `render` method, we access the current state through `this.state.count`. 
 
 ### API Calling
 
-Consuming public services is an important part in becoming a React Developer. We would try to call an API, using `fetch` inside `react` and print the results as a list. The idea is to check is MahaShivratri is in the HolidayList for 2021 Indian Calendar.
+Consuming public services is an important part in becoming a React Developer. We would try to call an API, using `fetch` inside `react` and print the results as a list.
 
 A sample of how to call an API is shown below, we can try to copy/paste this inside our ```App.Js``` to visualise.
 

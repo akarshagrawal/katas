@@ -7,7 +7,7 @@ By the end of this lesson, you should be able to:
 - Describe the purpose of `state` in a React component (reading material)
 - Explain the importance of using `setState()` instead of mutating state directly (reading material)
 - Learn to call API using `fetch` (practice)
-- Realise if mahaShivratri is a Holiday (exercise/kata)
+- Realise if valetine'sDay is a Holiday (exercise/kata)
 
 ### State
 
